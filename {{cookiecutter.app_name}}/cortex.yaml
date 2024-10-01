@@ -6,7 +6,7 @@ info:
   x-cortex-type: service
   x-cortex-slack:
     channels:
-    - name: {{ cookiecutter.slack_channel }}
+    - name: {{ cookiecutter.slack_channel_name }}
       notificationsEnabled: true
   x-cortex-git:
     github:
