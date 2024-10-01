@@ -1,4 +1,5 @@
 # {{cookiecutter.project_name}}
+A basic java spring boot gradle application.
 
 # Requirements
 
