@@ -5,7 +5,7 @@
 	"project_name": "",
 	"version": "0.1.2",
 	"creator": "",
-	"log_link": "https://app.datadoghq.com/logs?query="
+	"log_link": "https://app.datadoghq.com/logs?query=",
 	"slack_channel_name": "",
 	"datadog_monitor_id": ""
 }
