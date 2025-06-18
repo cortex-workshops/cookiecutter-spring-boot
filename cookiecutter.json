@@ -4,5 +4,5 @@
 	"_copy_without_render": [".gradle", "gradle/", "*gradlew", "*gradlew.bat"],
 	"project_name": "",
 	"version": "0.1.2",
-	"creator": "",
+	"creator": ""
 }
