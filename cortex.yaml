@@ -13,6 +13,3 @@ info:
     type: GROUP
     provider: CORTEX
     description: ""
-  - name: be-engineering
-    type: group
-    provider: CORTEX
