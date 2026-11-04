@@ -13,3 +13,9 @@ info:
     type: GROUP
     provider: CORTEX
     description: ""
+  - name: be-engineering
+    type: group
+    provider: CORTEX
+  - name: comms-team
+    type: group
+    provider: CORTEX
